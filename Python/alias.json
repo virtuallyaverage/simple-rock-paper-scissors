@@ -1,0 +1,37 @@
+{
+    "rock":[
+        "rock", "Rock", "ROCK", "r", "R", "'rock'", "'Rock'", "'ROCK'", "'r'", "'R'",
+        "stone", "Stone", "STONE", "'stone'", "'Stone'", "'STONE'", "'s'", "'S'",
+        "pebble", "Pebble", "PEBBLE", "boulder", "Boulder", "BOULDER", "rocky", "Rocky", "ROCKY",
+        "rocky balboa", "Rocky Balboa", "ROCKY BALBOA", "dwayne johnson", "Dwayne Johnson", "DWAYNE JOHNSON",
+        "the rock", "The Rock", "THE ROCK", "geodude", "Geodude", "GEODUDE", "onix", "Onix", "ONIX",
+        "metapod", "Metapod", "METAPOD", "graveler", "Graveler", "GRAVELER", "cranidos", "Cranidos", "CRANIDOS",
+        "golem", "Golem", "GOLEM", "rhyhorn", "Rhyhorn", "RHYHORN", "kabuto", "Kabuto", "KABUTO",
+        "omanyte", "Omanyte", "OMANYTE", "shuckle", "Shuckle", "SHUCKLE", "magcargo", "Magcargo", "MAGCARGO",
+        "larvitar", "Larvitar", "LARVITAR", "tyranitar", "Tyranitar", "TYRANITAR", "sudowoodo", "Sudowoodo", "SUDOWOODO",
+        "nosepass", "Nosepass", "NOSEPASS", "lunatone", "Lunatone", "LUNATONE", "solrock", "Solrock", "SOLROCK",
+        "regirock", "Regirock", "REGIROCK"
+    ],
+
+    "paper":[
+        "paper", "p", "Paper", "P", "PAPER", "paPer", "PapEr", "pAPEr", "papER", "PaPer",
+        "newsprint", "stationery", "manuscript", "parchment", "scroll", "sheet", "document",
+        "notebook", "printer paper", "toilet paper", "rice paper", "wax paper", "construction paper",
+        "paper towel", "sandpaper", "tissue paper", "gift wrap", "crepe paper", "origami paper",
+        "money", "a4", "letter", "printer", "quilling paper", "wrapping paper", "carbon paper",
+        "contact paper", "flypaper", "graph paper", "kraft paper", "loose leaf paper", "mulberry paper",
+        "onion skin paper", "rice paper roll", "scrapbook paper", "tattoo transfer paper"
+    ],
+
+    "scissors":[
+        "scissors", "scissor", "sciss", "sci", "sc", "sissors", "sisors", "scisors", "skizzers", "skizors","s",
+        "snip", "snips", "snippy", "snippys", "snippy-snips", "snippy-snipses", "snippers", "snippies", "snippie-snips", "snippie-snipses",
+        "cutters", "cutter", "cutty", "cuttys", "cutty-cutters", "cutty-cutterses", "cutties", "cuttie-cutters", "cuttie-cutterses", "clippers",
+        "shears", "shear", "sheers", "shearers", "shizzors", "shizzers", "shizzies", "shizzie-shears", "shizzie-shearses", "sharp bits",
+        "pointy bits", "chop chop", "cut cut", "slice slice", "snippy snappy", "snip snappy", "snip snap", "click clack", "cut and paste", "nip nips"
+    ],
+
+    "nuke":[
+        "you have found a secret"
+    ]
+}
