@@ -28,7 +28,7 @@ function selection(userSelection) {
 		}
 	}
 
-	// if user chooses rock
+	// if user chooses paper
 	if (userSelection == 'paper') {
 		if (computerGuess == 1) {
 			winner = 'tie';
@@ -39,7 +39,7 @@ function selection(userSelection) {
 		}
 	}
 
-	// if user chooses rock
+	// if user chooses scissors
 	if (userSelection == 'scissors') {
 		if (computerGuess == 2) {
 			winner = 'tie';
